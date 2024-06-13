@@ -11,7 +11,9 @@ Dieses Projekt zielt darauf ab, die Datenqualität zu überprüfen und ein Data-
 # Inhalte
 Das Repository enthält die folgenden Dateien:
 
-- _Skripte_: 
-- _Tableau Datei_: 
-- _kurze, formlose Erklärungen_: 
+- _Datenbanksysteme2-Projekt-Skript.sql_:
+- _Datenbanksysteme2-Projekt-Skript-Prozeduren.sql_: 
+- _Datenbanksysteme2-Projekt-Bericht.pdf_: 
+- _Sales-By-Product-Group-Germany.pdf_:
+- _Computer-Sales-Trends-Over-Time.pdf_:
 - _README.md_: Die Datei, die Sie gerade lesen.
