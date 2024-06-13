@@ -11,9 +11,8 @@ Dieses Projekt zielt darauf ab, die Datenqualität zu überprüfen und ein Data-
 # Inhalte
 Das Repository enthält die folgenden Dateien:
 
-- _Datenbanksysteme2-Projekt-Skript.sql_:
-- _Datenbanksysteme2-Projekt-Skript-Prozeduren.sql_: 
-- _Datenbanksysteme2-Projekt-Bericht.pdf_: 
-- _Sales-By-Product-Group-Germany.pdf_:
-- _Computer-Sales-Trends-Over-Time.pdf_:
+- _Datenbanksysteme2-Projekt-Skript.sql_: Diese Datei enthält alle SQL-Abfragen für dieses Projekt ohne Prozeduren.
+- _Datenbanksysteme2-Projekt-Skript-Prozeduren.sql_: Diese Datei enthält alle Prozeduren für dieses Projekt
+- _Datenbanksysteme2-Projekt-Bericht.pdf_: Diese Datei enthält eine detaillierte Beschreibung des Projekts, einschließlich der Methodik, der Ergebnisse und der Besonderheiten.
+- _Sales-By-Product-Group-Germany.pdf, Computer-Sales-Trends-Over-Time.pdf_: Diese PDF-Dateien sind Ergebnisse der zweidimensionalen Analyse unter Verwendung eines Data Warehouses und Tableau.
 - _README.md_: Die Datei, die Sie gerade lesen.
